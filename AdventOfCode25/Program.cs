@@ -5,8 +5,7 @@ using System.Reflection;
 using AdventOfCode25;
 using AdventOfCode25.Solvers;
 
-var day = 5;
-var isTest = false;
+var day = 7;
 
 var dayName = $"Day{day}";
 var testFileName = $"Inputs/{dayName}/test.txt";
